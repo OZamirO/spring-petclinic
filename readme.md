@@ -24,7 +24,6 @@ Deliverables:
     2. Docker file within that repo
     3. readme.md file explaining the work and how to run the project
 
-
 2. Command to obtain and run the docker image
 
 ---
