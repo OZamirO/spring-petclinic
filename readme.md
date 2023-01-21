@@ -28,7 +28,7 @@ Deliverables:
 
 ---
 
-<br><br>
+<br>
 
 ## Running the project locally
 
