@@ -1,4 +1,4 @@
-# My PetCLinic Assignment
+# My PetClinic Assignment
 
 ## Practicing Jenkins pipeline 
 
