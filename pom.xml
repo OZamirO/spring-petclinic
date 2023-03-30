@@ -398,3 +398,11 @@
   </profiles>
 
 </project>
+<distributionManagement>
+<repository>
+  <id>central</id>
+  <name>a0vhiahyxus5v-artifactory-primary-0-releases</name>
+  <url>https://ohadz.jfrog.io/artifactory/ohadz-ob-maven-libs-release</url>
+</repository>
+</distributionManagement>
+
